@@ -3,7 +3,7 @@ function bigger() {
 }
 
 function bold() {
-	alert("Text will set to bold blue.");
+	alert("Text will set to underlined bold blue.");
 	document.getElementById("textarea").style.fontWeight="bold";
 	document.getElementById("textarea").style.color="blue";
 	document.getElementById("textarea").style.textDecoration="underline";
